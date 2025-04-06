@@ -1,0 +1,17 @@
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\bin\Debug\net9.0\SGC.Infra.Data.deps.json
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\bin\Debug\net9.0\SGC.Infra.Data.runtimeconfig.json
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\bin\Debug\net9.0\SGC.Infra.Data.dll
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\bin\Debug\net9.0\SGC.Infra.Data.pdb
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\bin\Debug\net9.0\SGC.Domain.dll
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\bin\Debug\net9.0\SGC.Domain.pdb
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Data.AssemblyInfo.cs
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infr.B907DA9E.Up2Date
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Data.dll
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\refint\SGC.Infra.Data.dll
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Data.pdb
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Data.genruntimeconfig.cache
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\ref\SGC.Infra.Data.dll

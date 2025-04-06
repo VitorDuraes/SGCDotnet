@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9pwum9MfldA+itL9FBfLFOCj5DTDhRxlCvnBB0ARDbc=",
+  "Source": "SGC.API",
+  "BasePath": "_content/SGC.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
