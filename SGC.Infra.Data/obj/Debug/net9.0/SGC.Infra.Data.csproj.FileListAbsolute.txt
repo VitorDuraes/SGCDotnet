@@ -9,6 +9,7 @@ C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Da
 C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Data.AssemblyInfoInputs.cache
 C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Data.AssemblyInfo.cs
 C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Data.sourcelink.json
 C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infr.B907DA9E.Up2Date
 C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\SGC.Infra.Data.dll
 C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Infra.Data\obj\Debug\net9.0\refint\SGC.Infra.Data.dll

@@ -5,6 +5,7 @@ C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Domain\obj\Debug\net9.0\SGC.Domain.Gener
 C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Domain\obj\Debug\net9.0\SGC.Domain.AssemblyInfoInputs.cache
 C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Domain\obj\Debug\net9.0\SGC.Domain.AssemblyInfo.cs
 C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Domain\obj\Debug\net9.0\SGC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Domain\obj\Debug\net9.0\SGC.Domain.sourcelink.json
 C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Domain\obj\Debug\net9.0\SGC.Domain.dll
 C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Domain\obj\Debug\net9.0\refint\SGC.Domain.dll
 C:\Users\zVito\OneDrive\Desktop\SGC\SGC.Domain\obj\Debug\net9.0\SGC.Domain.pdb

@@ -23,15 +23,17 @@ namespace SGC.API.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetClientes(IEnumerable<Cliente> clientes)
+        public IActionResult GetClientes()
         {
+            var clientes = _context.Clientes.ToList();
             if (clientes == null || !clientes.Any())
             {
                 return NotFound("Nenhum cliente encontrado.");
             }
-
             return Ok(clientes);
+
         }
+
         [HttpGet("{id}")]
         public IActionResult GetClienteById(int id)
         {

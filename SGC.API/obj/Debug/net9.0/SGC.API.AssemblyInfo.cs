@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SGC.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f22fc08efe62529a05e42606657619cbd5e6f44")]
 [assembly: System.Reflection.AssemblyProductAttribute("SGC.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SGC.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
