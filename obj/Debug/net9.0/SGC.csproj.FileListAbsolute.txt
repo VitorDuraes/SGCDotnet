@@ -1,0 +1,7 @@
+C:\Users\zVito\OneDrive\Desktop\SGC\obj\Debug\net9.0\SGC.csproj.AssemblyReference.cache
+C:\Users\zVito\OneDrive\Desktop\SGC\obj\Debug\net9.0\SGC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zVito\OneDrive\Desktop\SGC\obj\Debug\net9.0\SGC.AssemblyInfoInputs.cache
+C:\Users\zVito\OneDrive\Desktop\SGC\obj\Debug\net9.0\SGC.AssemblyInfo.cs
+C:\Users\zVito\OneDrive\Desktop\SGC\obj\Debug\net9.0\SGC.csproj.CoreCompileInputs.cache
+C:\Users\zVito\OneDrive\Desktop\SGC\obj\Debug\net9.0\SGC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zVito\OneDrive\Desktop\SGC\obj\Debug\net9.0\SGC.MvcApplicationPartsAssemblyInfo.cache
